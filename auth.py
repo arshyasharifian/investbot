@@ -1,6 +1,9 @@
 # %%
 import robin_stocks as rs
 
+username = input("enter username here")
+password = input("enter password here")
+
 # %%
 auth_info = rs.authentication.login(username = '<>', password= '<>')
 
