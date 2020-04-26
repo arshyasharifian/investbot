@@ -1,2 +1,2 @@
 # investbot
-creating a trading algorithm
+a trading algorithm
