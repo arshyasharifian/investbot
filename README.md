@@ -1,0 +1,2 @@
+# investbot
+a trading algorithm
