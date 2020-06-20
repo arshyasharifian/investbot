@@ -22,8 +22,8 @@ Ignore any cloud references made in the functions or print statements. We were u
 Also there are still bugs in the code. You should be able to see all the outstanding issues we are actively working to fix in the projects tab of this repository. 
 
 Main Contributors:
--Arshya "Ary" Sharifian
--Gabriel Jai
+- Arshya "Ary" Sharifian
+- Gabriel Jai
 
 
 
