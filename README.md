@@ -15,7 +15,7 @@ Steps:
   ```
 3. Since I am filtering stocks by "recent news" and recent news is timestamped in UTC, I subtract 7 hours for the time because I am in PST. You should subtract the time accordingly.
 
-**The code assumes there is a $25K in the user's Robinhood account.** By default, the algorithm uses the difference between your buying power and $25K. For example, if a user has $26K in their Robinhood account, this algorithm will trade with $26K-$25K = $1K. To day trade legally, robinhood users must have $25K at the close of each trade day. You can read more about the rules for day trading [here](https://robinhood.com/us/en/support/articles/pattern-day-trading/). 
+**The code assumes there is $25K in the user's Robinhood account.** By default, the algorithm uses the difference between your buying power and $25K. For example, if a user has $26K in their Robinhood account, this algorithm will trade with $26K-$25K = $1K. To day trade legally, robinhood users must have $25K at the close of each trade day. You can read more about the rules for day trading [here](https://robinhood.com/us/en/support/articles/pattern-day-trading/). 
 
 Ignore any cloud references made in the functions or print statements. We were using cloud as storage for the file outputs, but now the stock purchase list is a local CSV file. 
 
