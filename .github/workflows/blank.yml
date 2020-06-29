@@ -15,6 +15,6 @@ jobs:
         lambda_layer_arn: 'arn:aws:lambda:us-east-1:699628099875:function:my-py-app'
         lambda_function_name: 'lambda_function'
       env:
-        AWS_ACCESS_KEY_ID: ${{ secrets.AKIA2FZIVTERUPQZVN5N }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.gjZbwaGZ4/S0VbL3f3xxX+YUf8TrMQeM6xb6+/hi }}
+        AWS_ACCESS_KEY_ID: 'AKIA2FZIVTERUPQZVN5N'
+        AWS_SECRET_ACCESS_KEY: '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'
         AWS_DEFAULT_REGION: 'us-east-2'
