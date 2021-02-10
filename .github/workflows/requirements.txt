@@ -8,7 +8,7 @@ chardet==3.0.4
 click==7.1.2
 conda==4.8.2
 conda-package-handling==1.6.0
-cryptography==3.2
+cryptography==3.3.2
 dash==1.12.0
 dash-core-components==1.10.0
 dash-html-components==1.0.3
