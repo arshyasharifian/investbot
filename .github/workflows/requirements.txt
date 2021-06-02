@@ -45,6 +45,6 @@ ruamel-yaml==0.15.87
 six==1.14.0
 tqdm==4.42.1
 traitlets==4.3.3
-urllib3==1.25.8
+urllib3==1.26.5
 wcwidth==0.2.4
 Werkzeug==1.0.1
